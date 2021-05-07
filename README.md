@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
 
-# SOC-Programs
+# Programs
 [![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/issues)
 [![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/stargazers)
