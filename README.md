@@ -1,19 +1,9 @@
 ![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
 
-<<<<<<< HEAD
-# SOC-Programs
-[![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/issues)
-[![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/network)
-[![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/stargazers)
-[![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/blob/master/LICENSE)
-=======
-# Programs
 [![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/issues)
 [![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/stargazers)
 [![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/blob/main/LICENSE)
->>>>>>> 4eebdba3153f10fa8a4cf04bdfc1427466c3c617
-
 
 | Name                                    | Stipend | Timeline            |
 |-----------------------------------------|-------------|-----------------|
