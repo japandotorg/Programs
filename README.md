@@ -1,8 +1,6 @@
 ![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
 
 [![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/issues)
-[![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/stargazers)
 [![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/japandotorg/Programs/blob/main/LICENSE)
 
 | Name                                    | Stipend | Timeline            |
